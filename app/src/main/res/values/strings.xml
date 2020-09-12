@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Favourite Footballer</string>
+    <string name="choose_your_favourite_footballer">Choose your favourite footballer!</string>
+    <string name="next">Next</string>
+    <string name="like">LIKE</string>
+    <string name="cristiano_ronaldo">Cristiano Ronaldo</string>
+    <string name="choice">You have chosen</string>
+    <string name="click_next">. Great Choice! To see the rest of the footballers, click on NEXT button</string>
+    <string name="connect">Connect</string>
+    <string name="subject">Best Footballer App</string>
+    <string name="message">Hey there!\nSaw you recently on the newly made app for choosing the best footballer.\nWanted to let you know that I chose you as the Best footballer!\nThank you.</string>
+</resources>
